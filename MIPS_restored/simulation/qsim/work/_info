@@ -1,0 +1,147 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/simulation/qsim
+Ehard_block
+Z1 w1572624596
+Z2 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z3 DPx10 cycloneive 20 cycloneive_atom_pack 0 22 N5CzKW88F^ShIK@<7Vek12
+Z4 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z7 DPx10 cycloneive 21 cycloneive_components 0 22 K8IbX`K5[Y1gJUKg2X_071
+R0
+Z8 8MIPS.vho
+Z9 FMIPS.vho
+l0
+L34
+VOgIg9T_BR7joedFDVM>H13
+!s100 A`ID_i56<Ua56=ZD=[EG=2
+Z10 OV;C;10.5b;63
+32
+Z11 !s110 1572624601
+!i10b 1
+Z12 !s108 1572624600.000000
+Z13 !s90 -work|work|MIPS.vho|
+Z14 !s107 MIPS.vho|
+!i113 1
+Z15 o-work work
+Z16 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 10 hard_block 0 22 OgIg9T_BR7joedFDVM>H13
+l64
+L50
+V`^CmQg<48W[ez[JL_5@Yn2
+!s100 2S?JL;LJ@<3:BHXTNcXS]3
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Etipoi
+R1
+R3
+R7
+R2
+Z17 DPx6 altera 11 dffeas_pack 0 22 ?bDUB9Db2N8iCCALNL;CT3
+R4
+R5
+R6
+Z18 DPx6 altera 28 altera_primitives_components 0 22 c]VUMXSEi8Z`KM1bem<:B3
+R0
+R8
+R9
+l0
+L79
+VRLAPn6@7cSUJ57hD=_AXz3
+!s100 39ji`dhH0enXH3=0KGUSb3
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Astructure
+R3
+R7
+R2
+R17
+R4
+R5
+R6
+R18
+DEx4 work 5 tipoi 0 22 RLAPn6@7cSUJ57hD=_AXz3
+l856
+L186
+VWXa>dD501_EFRf0LG4^:<1
+!s100 U^IgB_3IK5VUjUi?T6cUT1
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Etipoi_vhd_vec_tst
+Z19 w1572624594
+R5
+R6
+R0
+Z20 8Waveform.vwf.vht
+Z21 FWaveform.vwf.vht
+l0
+L31
+Vf[Z2V_RHzf9eSd4X_eT7A3
+!s100 S9[b[ViGJ<N72e;f8V28A0
+R10
+32
+R11
+!i10b 1
+Z22 !s108 1572624601.000000
+Z23 !s90 -work|work|Waveform.vwf.vht|
+Z24 !s107 Waveform.vwf.vht|
+!i113 1
+R15
+R16
+Atipoi_arch
+R5
+R6
+Z25 DEx4 work 17 tipoi_vhd_vec_tst 0 22 f[Z2V_RHzf9eSd4X_eT7A3
+l64
+L33
+VFR8ZO9F;e@_O1GSi8QTSP2
+!s100 S[Yb7[a]7MB5Acj6EGZga2
+R10
+32
+R11
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R15
+R16

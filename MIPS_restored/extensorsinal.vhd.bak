@@ -1,0 +1,23 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity tipoR is
+
+	generic
+	(
+		larguraDados : integer := 32;
+		larguraImediato  : integer  := 16;
+	);
+	
+
+	port
+	(
+		CLOCK_50       : in std_logic;
+		SW : in std_logic_VECTOR(17 downto 0);
+		KEY : in std_logic_VECTOR(3 downto 0);
+		HEX0, HEX1, HEX2, HEX3, HEX4, HEX5, HEX6, HEX7 : OUT STD_LOGIC_VECTOR(6 downto 0);
+		LEDG : OUT STD_LOGIC_VECTOR(7 downto 0)
+		
+	);
+end tipoR;

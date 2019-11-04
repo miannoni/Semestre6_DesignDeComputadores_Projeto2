@@ -1,0 +1,36 @@
+Quartus Prime Archive log --	C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/MIPS_I.qarlog
+
+Archive:	C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/MIPS_I.qar
+Date:		Thu Oct 24 11:35:11 2019
+Quartus Prime		17.1.0 Build 590 10/25/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/MIPS.qpf
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/MIPS.qsf
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/RAM.vhd
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/ROM.vhd
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/assignment_defaults.qdf
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/bancoRegistradores.vhd
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/display7Seg.vhd
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/edgeDetector.vhd
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/extensorsinal.vhd
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/output_files/Waveform.vwf
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/output_files/Waveform1.vwf
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/output_files/Waveform2.vwf
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/output_files/Waveform3.vwf
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/output_files/Waveform4.vwf
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/output_files/Waveform5.vwf
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/output_files/Waveform6.vwf
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/output_files/Waveform7.vwf
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/output_files/Waveform8.vwf
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/output_files/Waveform9.vwf
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/registrador.vhd
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/tipoI.vhd
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/tipoJ.vhd
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/tipoR.vhd
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/ula.vhd
+C:/Users/matte/Documents/Insper/Semestre_6/Design_de_computadores/mips/MIPS_restored/ula_soma4.vhd
+	======= Total: 25 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
